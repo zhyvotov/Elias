@@ -1,0 +1,40 @@
+/*For max-width: 480px*/
+@media screen and (max-width: 480px) {
+    header {
+        width: 100%;
+        max-height: 50px;
+    }
+    .contact a:link {
+        font-size: 8px;
+    }
+    .contact a:hover {
+        font-size: 12px;
+    }
+    h1 {
+        font-size: 18px;
+        line-height: 18px;
+        /*padding: 2px 0;*/
+    }
+    h3 {
+        font-size: 12px;
+        line-height: 12px;
+        padding: 10px 0;
+    }
+    h4 {
+        display: none;
+        /*visibility: hidden;*/
+        /*font-size: 10px;*/
+        /*line-height: 10px;*/
+        /*padding: 10px 0;*/
+    }
+    .footer_content {
+        font-size: 8px;
+        /*padding: 10px 0 10px 10px;*/
+    }
+    .bold {
+        font-family: 'Oswald', sans-serif;
+        font-size: 8px;
+        font-weight: bolder;
+        /*padding: 10px 0 10px 10px;*/
+    }
+}

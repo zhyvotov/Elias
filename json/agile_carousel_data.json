@@ -1,0 +1,16 @@
+[{
+      "content": "<div class='slide_inner'><a class='photo_link' href='#'><img class='photo' src='img/1.jpg' alt='Bike'></a><a class='caption' href='#'>Sample Carousel Pic Goes Here And The Best Part is that...</a></div>",
+      "content_button": ""
+}, {
+      "content": "<div class='slide_inner'><a class='photo_link' href='#'><img class='photo' src='img/2.jpg' alt='Paint'></a><a class='caption' href='#'>Sample Carousel Pic Goes Here And The Best Part is that...</a></div>",
+      "content_button": ""
+}, {
+      "content": "<div class='slide_inner'><a class='photo_link' href='#'><img class='photo' src='img/3.jpg' alt='Tunnel'></a><a class='caption' href='#'>Sample Carousel Pic Goes Here And The Best Part is that...</a></div>",
+      "content_button": ""
+}, {
+      "content": "<div class='slide_inner'><a class='photo_link' href='#'><img class='photo' src='img/4.jpg' alt='Bike'></a><a class='caption' href='#'>Sample Carousel Pic Goes Here And The Best Part is that...</a></div>",
+      "content_button": ""
+}, {
+      "content": "<div class='slide_inner'><a class='photo_link' href='#'><img class='photo' src='img/5.jpg' alt='Paint'></a><a class='caption' href='#'>Sample Carousel Pic Goes Here And The Best Part is that...</a></div>",
+      "content_button": ""
+}]
