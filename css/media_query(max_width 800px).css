@@ -5,33 +5,42 @@
         max-height: 100px;
     }
     .contact a:link {
-        font-size: 12px;
+        /*font-size: 12px;*/
+        font-size: 0.750em;/*16px/12px=0.75em*/
     }
     .contact a:hover {
         font-size: 16px;
+        font-size: 1em;/*16px/16px=1em*/
     }
     h1 {
-        font-size: 22px;
+        /*font-size: 22px;*/
+        font-size: 1.375em;/*16px/22px=1.375em*/
         line-height: 22px;
         padding: 6px 0;
     }
     h3 {
-        font-size: 16px;
-        line-height: 16px;
+        /*font-size: 16px;*/
+        font-size: 1em;/*16px/16px=1em*/
+        /*line-height: 16px;*/
+        line-height: 1em;/*16px/16px=1em*/
         padding: 6px 0;
     }
     h4 {
-        font-size: 14px;
+        /*font-size: 14px;*/
+        font-size: 0.875em; /*16px/14px=0.875em*/
         line-height: 14px;
+        line-height: 0.875em;/*16px/14px=0.875em*/
         padding: 6px 0;
     }
     .footer_content {
-        font-size: 12px;
+        /*font-size: 12px;*/
+        font-size: 0.750em;/*16px/12px=0.750em*/
         padding: 6px 0 6px 6px;
     }
     .bold {
         font-family: 'Oswald', sans-serif;
-        font-size: 12px;
+        /*font-size: 12px;*/
+        font-size: 0.750em;/*16px/12px=0.750em*/
         font-weight: bolder;
         padding: 6px 0 6px 6px;
     }
