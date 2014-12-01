@@ -1,3 +1,6 @@
+body {
+    font: 100% 'Oswald', sans-serif;
+}
 header, footer {
     display: block;
 }
@@ -43,14 +46,16 @@ header, footer {
 }
 .footer_content {
     font-family: 'Oswald', sans-serif;
-    font-size: 14px;
+    /*font-size: 14px;*/
+    font-size: 0.875em;/*16px/14px=0.875em*/
     font-weight: normal;
     padding: 10px 0 10px 10px;
     text-align: center;
 }
 .bold {
     font-family: 'Oswald', sans-serif;
-    font-size: 14px;
+    /*font-size: 14px;*/
+    font-size: 0.875em;/*16px/14px=0.875em*/
     font-weight: bolder;
     padding: 10px 0 10px 10px;
 }
@@ -63,7 +68,8 @@ header, footer {
 .contact a:link {
     text-decoration: none;
     font-family: 'Oswald', sans-serif;
-    font-size: 14px;
+    /*font-size: 14px;*/
+    font-size: 0.875em;/*16px/14px=0.875em*/
     font-weight: bolder;
     color: white;
     padding: 10px;
@@ -80,7 +86,8 @@ header, footer {
 .contact a:hover {
     text-decoration: underline;
     color: yellow;
-    font-size: 18px;
+    /*font-size: 18px;*/
+    font-size: 1.125em;/*16px/18px=1.125em*/
     font-weight: bold;
 }
 .greeting {
@@ -96,17 +103,23 @@ h1, h2 {
     font-weight: bold;
 }
 h1 {
-    font-size: 24px;
-    line-height: 24px;
+    /*font-size: 24px;*/
+    font-size: 1.500em;/*24px/16px=1.5000em*/
+    /*line-height: 24px;*/
+    line-height: 1.500em;/*24px/16px=1.5000em*/
     padding: 12px 0;
 }
 h3 {
-    font-size: 18px;
-    line-height: 18px;
+    /*font-size: 18px;*/
+    font-size: 1.125em;/*18px/16px=1.125em*/
+    /*line-height: 18px;*/
+    line-height: 1.125em;/*18px/16px=1.125em*/
     padding: 10px 0;
 }
 h4 {
-    font-size: 16px;
-    line-height: 16px;
+    /*font-size: 16px;*/
+    font-size: 0.889em;/*18px/16px=0.889em*/
+    /*line-height: 16px;*/
+    line-height: 0.889em;/*18px/16px=0.889em*/
     padding: 10px 0;
 }
