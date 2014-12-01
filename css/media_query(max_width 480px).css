@@ -5,36 +5,37 @@
         max-height: 50px;
     }
     .contact a:link {
-        font-size: 8px;
+        /*font-size: 8px;*/
+        fon-size: 0.500em;/*16px/8px=0.500em*/
     }
     .contact a:hover {
-        font-size: 12px;
+        /*font-size: 12px;*/
+        font-size: 0.750em;/*16px/12px=0.750em*/
     }
     h1 {
-        font-size: 18px;
-        line-height: 18px;
-        /*padding: 2px 0;*/
+        /*font-size: 18px;*/
+        font-size: 1.125em;/*16px/18px=1.125em*/
+        /*line-height: 18px;*/
+        line-height: 1.125em;/*16px/18px=1.125em*/
     }
     h3 {
-        font-size: 12px;
-        line-height: 12px;
+        /*font-size: 12px;*/
+        font-size: 0.750em;/*16px/12px=0.750em*/
+        /*line-height: 12px;*/
+        line-height: 0.750em;/*16px/12px=0.750em*/
         padding: 10px 0;
     }
     h4 {
         display: none;
-        /*visibility: hidden;*/
-        /*font-size: 10px;*/
-        /*line-height: 10px;*/
-        /*padding: 10px 0;*/
     }
     .footer_content {
-        font-size: 8px;
-        /*padding: 10px 0 10px 10px;*/
+        /*font-size: 8px;*/
+        font-size: 0.500em;/*16px/8px=0.500em*/
     }
     .bold {
         font-family: 'Oswald', sans-serif;
-        font-size: 8px;
+        /*font-size: 8px;*/
+        font-size: 0.500em;/*16px/8px=0.500em*/
         font-weight: bolder;
-        /*padding: 10px 0 10px 10px;*/
     }
 }

@@ -28,8 +28,9 @@
     }
     h4 {
         /*font-size: 14px;*/
+        /*line-height: 14px;*/
         font-size: 0.875em; /*16px/14px=0.875em*/
-        line-height: 14px;
+        /*line-height: 14px;*/
         line-height: 0.875em;/*16px/14px=0.875em*/
         padding: 6px 0;
     }
