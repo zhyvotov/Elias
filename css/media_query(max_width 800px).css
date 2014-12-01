@@ -15,7 +15,8 @@
     h1 {
         /*font-size: 22px;*/
         font-size: 1.375em;/*16px/22px=1.375em*/
-        line-height: 22px;
+        /*line-height: 22px;*/
+        line-height: 1.375em;/*16px/22px=1.375em*/
         padding: 6px 0;
     }
     h3 {
